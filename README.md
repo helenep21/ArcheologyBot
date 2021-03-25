@@ -14,7 +14,9 @@ npm install
 
 ## Usage
 
-The bot needs a webhook to work, so we used ngrok to test it.
+The bot needs a webhook to work, so we deployed it with Heroku.
+However, Facebook does not allow any user to send messages to an app in development,
+so you must be added in the roles of the facebook page
 
 Here is the format of questions/answers :
 User> Hello
