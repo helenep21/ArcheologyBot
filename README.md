@@ -37,6 +37,3 @@ Discovered in 1902
 Located at 56 boulevard Saint-Jacques, so 397 meters away.
 Description : Une partie de l'aqueduc de Marie de Médicis (XVIIe siècle) a été découvert en 1901, lors de la construction d'une galerie pour conduite d'eau.
 
-## Last words
-
-This project was made for class, by Louise Farré & Hélène Peignard
